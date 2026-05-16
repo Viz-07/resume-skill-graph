@@ -1,0 +1,141 @@
+{
+  "programming_languages": [
+    "python",
+    "java",
+    "c",
+    "c++",
+    "javascript",
+    "typescript",
+    "r",
+    "swift",
+    "kotlin",
+    "sql"
+  ],
+  "machine_learning_ai": [
+    "machine learning",
+    "artificial intelligence",
+    "deep learning",
+    "nlp",
+    "computer vision",
+    "neural networks",
+    "predictive modeling",
+    "model training",
+    "model evaluation",
+    "data mining",
+    "generative ai",
+    "large language models",
+    "llm"
+  ],
+  "ml_frameworks_libraries": [
+    "tensorflow",
+    "pytorch",
+    "scikit-learn",
+    "keras",
+    "opencv",
+    "numpy",
+    "pandas",
+    "matplotlib"
+  ],
+  "data_engineering_big_data": [
+    "big data",
+    "hadoop",
+    "spark",
+    "pyspark",
+    "hive",
+    "etl",
+    "data pipeline",
+    "data warehousing",
+    "redshift",
+    "informatica",
+    "talend"
+  ],
+  "frontend": [
+    "html",
+    "css",
+    "javascript",
+    "typescript",
+    "react",
+    "redux",
+    "next.js",
+    "tailwind",
+    "bootstrap"
+  ],
+  "backend": [
+    "software development",
+    "flask",
+    "django",
+    "spring boot",
+    "node.js",
+    "asp.net",
+    "rest api",
+    "graphql",
+    "microservices",
+    "application development"
+  ],
+  "databases": [
+    "sql",
+    "mysql",
+    "postgresql",
+    "mongodb",
+    "redis",
+    "elasticsearch",
+    "database management",
+    "database design",
+    "relational database",
+    "nosql"
+  ],
+  "cloud_devops": [
+    "cloud",
+    "aws",
+    "azure",
+    "gcp",
+    "docker",
+    "kubernetes",
+    "linux",
+    "ci/cd",
+    "git",
+    "jenkins",
+    "devops"
+  ],
+  "mobile_development": [
+    "ios",
+    "swift",
+    "swift ui",
+    "android",
+    "kotlin",
+    "ios development",
+    "android development",
+    "mobile apps"
+  ],
+  "networking_security": [
+    "networking",
+    "network administration",
+    "cisco",
+    "ccna",
+    "firewall",
+    "lan",
+    "wan",
+    "security"
+  ],
+  "analytics_bi": [
+    "data analysis",
+    "data analytics",
+    "business analysis",
+    "data visualization",
+    "tableau",
+    "power bi",
+    "excel",
+    "statistics",
+    "reporting"
+  ],
+  "software_engineering": [
+    "data structures",
+    "algorithms",
+    "software engineering",
+    "software testing",
+    "testing",
+    "debugging",
+    "quality assurance",
+    "requirements gathering"
+  ]
+}

@@ -1,0 +1,5464 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "algorithms"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "android"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "android development"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "application development"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "artificial intelligence"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "asp.net"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "aws"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "azure"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "big data"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "bootstrap"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "business analysis"
+    },
+    {
+      "node_type": "skill",
+      "domain": "programming_languages",
+      "id": "c"
+    },
+    {
+      "node_type": "skill",
+      "domain": "programming_languages",
+      "id": "c++"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "ccna"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "ci/cd"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "cisco"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "cloud"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "computer vision"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "css"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "data analysis"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "data analytics"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "data mining"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "data pipeline"
+    },
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "data structures"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "data visualization"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "data warehousing"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "database design"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "database management"
+    },
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "debugging"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "deep learning"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "devops"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "django"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "docker"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "elasticsearch"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "etl"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "excel"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "firewall"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "flask"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "gcp"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "generative ai"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "git"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "graphql"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "hadoop"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "hive"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "html"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "informatica"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "ios"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "ios development"
+    },
+    {
+      "node_type": "skill",
+      "domain": "programming_languages",
+      "id": "java"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "javascript"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "jenkins"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "keras"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "kotlin"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "kubernetes"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "lan"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "large language models"
+    },
+    {
+      "node_type": "skill",
+      "domain": "cloud_devops",
+      "id": "linux"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "llm"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "machine learning"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "matplotlib"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "microservices"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "mobile apps"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "model evaluation"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "model training"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "mongodb"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "mysql"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "network administration"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "networking"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "neural networks"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "next.js"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "nlp"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "node.js"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "nosql"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "numpy"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "opencv"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "pandas"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "postgresql"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "power bi"
+    },
+    {
+      "node_type": "skill",
+      "domain": "machine_learning_ai",
+      "id": "predictive modeling"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "pyspark"
+    },
+    {
+      "node_type": "skill",
+      "domain": "programming_languages",
+      "id": "python"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "pytorch"
+    },
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "quality assurance"
+    },
+    {
+      "node_type": "skill",
+      "domain": "programming_languages",
+      "id": "r"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "react"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "redis"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "redshift"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "redux"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "relational database"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "reporting"
+    },
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "requirements gathering"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "rest api"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "scikit-learn"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "security"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "software development"
+    },
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "software engineering"
+    },
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "software testing"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "spark"
+    },
+    {
+      "node_type": "skill",
+      "domain": "backend",
+      "id": "spring boot"
+    },
+    {
+      "node_type": "skill",
+      "domain": "databases",
+      "id": "sql"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "statistics"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "swift"
+    },
+    {
+      "node_type": "skill",
+      "domain": "mobile_development",
+      "id": "swift ui"
+    },
+    {
+      "node_type": "skill",
+      "domain": "analytics_bi",
+      "id": "tableau"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "tailwind"
+    },
+    {
+      "node_type": "skill",
+      "domain": "data_engineering_big_data",
+      "id": "talend"
+    },
+    {
+      "node_type": "skill",
+      "domain": "ml_frameworks_libraries",
+      "id": "tensorflow"
+    },
+    {
+      "node_type": "skill",
+      "domain": "software_engineering",
+      "id": "testing"
+    },
+    {
+      "node_type": "skill",
+      "domain": "frontend",
+      "id": "typescript"
+    },
+    {
+      "node_type": "skill",
+      "domain": "networking_security",
+      "id": "wan"
+    },
+    {
+      "node_type": "domain",
+      "id": "programming_languages"
+    },
+    {
+      "node_type": "domain",
+      "id": "machine_learning_ai"
+    },
+    {
+      "node_type": "domain",
+      "id": "ml_frameworks_libraries"
+    },
+    {
+      "node_type": "domain",
+      "id": "data_engineering_big_data"
+    },
+    {
+      "node_type": "domain",
+      "id": "frontend"
+    },
+    {
+      "node_type": "domain",
+      "id": "backend"
+    },
+    {
+      "node_type": "domain",
+      "id": "databases"
+    },
+    {
+      "node_type": "domain",
+      "id": "cloud_devops"
+    },
+    {
+      "node_type": "domain",
+      "id": "mobile_development"
+    },
+    {
+      "node_type": "domain",
+      "id": "networking_security"
+    },
+    {
+      "node_type": "domain",
+      "id": "analytics_bi"
+    },
+    {
+      "node_type": "domain",
+      "id": "software_engineering"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "algorithms",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "algorithms",
+      "target": "data structures"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "algorithms",
+      "target": "machine learning"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "algorithms",
+      "target": "python"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "algorithms",
+      "target": "java"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "algorithms",
+      "target": "deep learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "android",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "android development",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "application development",
+      "target": "backend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "artificial intelligence",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "artificial intelligence",
+      "target": "data visualization"
+    },
+    {
+      "weight": 260,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "deep learning"
+    },
+    {
+      "weight": 416,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "machine learning"
+    },
+    {
+      "weight": 328,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "python"
+    },
+    {
+      "weight": 289,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "data analysis"
+    },
+    {
+      "weight": 169,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "artificial intelligence",
+      "target": "nlp"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "artificial intelligence",
+      "target": "pyspark"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "pytorch"
+    },
+    {
+      "weight": 198,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "sql"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "artificial intelligence",
+      "target": "predictive modeling"
+    },
+    {
+      "weight": 68,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "power bi"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "artificial intelligence",
+      "target": "tableau"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "artificial intelligence",
+      "target": "data mining"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "artificial intelligence",
+      "target": "c++"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "neural networks"
+    },
+    {
+      "weight": 74,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "java"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "artificial intelligence",
+      "target": "data structures"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "asp.net",
+      "target": "backend"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "asp.net",
+      "target": "database management"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "asp.net",
+      "target": "elasticsearch"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "asp.net",
+      "target": "machine learning"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "asp.net",
+      "target": "mongodb"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "asp.net",
+      "target": "mysql"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "asp.net",
+      "target": "nosql"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "asp.net",
+      "target": "redis"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "aws",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "aws",
+      "target": "c++"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "aws",
+      "target": "nlp"
+    },
+    {
+      "weight": 131,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "aws",
+      "target": "python"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "aws",
+      "target": "sql"
+    },
+    {
+      "weight": 79,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "aws",
+      "target": "data analysis"
+    },
+    {
+      "weight": 117,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "aws",
+      "target": "machine learning"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "aws",
+      "target": "pytorch"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "aws",
+      "target": "deep learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "azure",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 353,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "azure",
+      "target": "big data"
+    },
+    {
+      "weight": 106,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "azure",
+      "target": "machine learning"
+    },
+    {
+      "weight": 101,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "azure",
+      "target": "python"
+    },
+    {
+      "weight": 56,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "azure",
+      "target": "nlp"
+    },
+    {
+      "weight": 417,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "azure",
+      "target": "sql"
+    },
+    {
+      "weight": 379,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "azure",
+      "target": "power bi"
+    },
+    {
+      "weight": 353,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "azure",
+      "target": "data analysis"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "big data",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 107,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "big data",
+      "target": "machine learning"
+    },
+    {
+      "weight": 90,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "big data",
+      "target": "python"
+    },
+    {
+      "weight": 379,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "big data",
+      "target": "sql"
+    },
+    {
+      "weight": 366,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "big data",
+      "target": "data analysis"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "big data",
+      "target": "power bi"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "bootstrap",
+      "target": "frontend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "business analysis",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 193,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "data analysis"
+    },
+    {
+      "weight": 236,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "machine learning"
+    },
+    {
+      "weight": 58,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "power bi"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "r"
+    },
+    {
+      "weight": 81,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "tableau"
+    },
+    {
+      "weight": 183,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "python"
+    },
+    {
+      "weight": 69,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "nlp"
+    },
+    {
+      "weight": 74,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "deep learning"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "business analysis",
+      "target": "numpy"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "sql"
+    },
+    {
+      "weight": 348,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "java"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "business analysis",
+      "target": "software development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "c",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 188,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "java"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "linux"
+    },
+    {
+      "weight": 117,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "machine learning"
+    },
+    {
+      "weight": 183,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "python"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "software development"
+    },
+    {
+      "weight": 69,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "sql"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "c",
+      "target": "r"
+    },
+    {
+      "weight": 182,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "c++"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "c",
+      "target": "excel"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c",
+      "target": "data analysis"
+    },
+    {
+      "weight": 66,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume"
+      ],
+      "source": "c",
+      "target": "html"
+    },
+    {
+      "weight": 66,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume"
+      ],
+      "source": "c",
+      "target": "javascript"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "c",
+      "target": "deep learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "c++",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "c++",
+      "target": "data structures"
+    },
+    {
+      "weight": 256,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "java"
+    },
+    {
+      "weight": 195,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "machine learning"
+    },
+    {
+      "weight": 331,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "python"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "javascript"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "c++",
+      "target": "lan"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "c++",
+      "target": "css"
+    },
+    {
+      "weight": 137,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "sql"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "c++",
+      "target": "deep learning"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "django"
+    },
+    {
+      "weight": 72,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "pytorch"
+    },
+    {
+      "weight": 73,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "linux"
+    },
+    {
+      "weight": 125,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "data analysis"
+    },
+    {
+      "weight": 73,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "software development"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "html"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "testing"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "c++",
+      "target": "jenkins"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "ccna",
+      "target": "networking_security"
+    },
+    {
+      "weight": 354,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "ccna",
+      "target": "networking"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "ccna",
+      "target": "machine learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "ci/cd",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "cisco",
+      "target": "networking_security"
+    },
+    {
+      "weight": 367,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "cisco",
+      "target": "linux"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "cisco",
+      "target": "machine learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "cloud",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "cloud",
+      "target": "machine learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "computer vision",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 122,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "computer vision",
+      "target": "data analysis"
+    },
+    {
+      "weight": 208,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "computer vision",
+      "target": "deep learning"
+    },
+    {
+      "weight": 260,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "computer vision",
+      "target": "machine learning"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "computer vision",
+      "target": "nlp"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "computer vision",
+      "target": "opencv"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "computer vision",
+      "target": "pyspark"
+    },
+    {
+      "weight": 136,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "computer vision",
+      "target": "python"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "computer vision",
+      "target": "numpy"
+    },
+    {
+      "weight": 58,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "computer vision",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "css",
+      "target": "frontend"
+    },
+    {
+      "weight": 132,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "css",
+      "target": "javascript"
+    },
+    {
+      "weight": 117,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "css",
+      "target": "python"
+    },
+    {
+      "weight": 145,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "css",
+      "target": "html"
+    },
+    {
+      "weight": 92,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "css",
+      "target": "java"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "css",
+      "target": "mysql"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "css",
+      "target": "machine learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "data analysis",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 223,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "data visualization"
+    },
+    {
+      "weight": 956,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "machine learning"
+    },
+    {
+      "weight": 486,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "power bi"
+    },
+    {
+      "weight": 157,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "r"
+    },
+    {
+      "weight": 237,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "tableau"
+    },
+    {
+      "weight": 776,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "python"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "nlp"
+    },
+    {
+      "weight": 119,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "mongodb"
+    },
+    {
+      "weight": 106,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "mysql"
+    },
+    {
+      "weight": 67,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "nosql"
+    },
+    {
+      "weight": 747,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "sql"
+    },
+    {
+      "weight": 308,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "deep learning"
+    },
+    {
+      "weight": 66,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "pyspark"
+    },
+    {
+      "weight": 94,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "pytorch"
+    },
+    {
+      "weight": 68,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "data structures"
+    },
+    {
+      "weight": 70,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "linux"
+    },
+    {
+      "weight": 80,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "html"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data analysis",
+      "target": "numpy"
+    },
+    {
+      "weight": 169,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "predictive modeling"
+    },
+    {
+      "weight": 67,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 88,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "excel"
+    },
+    {
+      "weight": 200,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "data mining"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "statistics"
+    },
+    {
+      "weight": 103,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "database management"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data analysis",
+      "target": "matplotlib"
+    },
+    {
+      "weight": 93,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 257,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "java"
+    },
+    {
+      "weight": 113,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data analysis",
+      "target": "software development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "data analytics",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "data mining",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 325,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data mining",
+      "target": "machine learning"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data mining",
+      "target": "r"
+    },
+    {
+      "weight": 159,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data mining",
+      "target": "sql"
+    },
+    {
+      "weight": 79,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume"
+      ],
+      "source": "data mining",
+      "target": "data visualization"
+    },
+    {
+      "weight": 54,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data mining",
+      "target": "power bi"
+    },
+    {
+      "weight": 262,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data mining",
+      "target": "python"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data mining",
+      "target": "deep learning"
+    },
+    {
+      "weight": 117,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data mining",
+      "target": "nlp"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data mining",
+      "target": "predictive modeling"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data mining",
+      "target": "tableau"
+    },
+    {
+      "weight": 58,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data mining",
+      "target": "java"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "data pipeline",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "data structures",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 87,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data structures",
+      "target": "java"
+    },
+    {
+      "weight": 182,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data structures",
+      "target": "machine learning"
+    },
+    {
+      "weight": 146,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data structures",
+      "target": "python"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data structures",
+      "target": "deep learning"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data structures",
+      "target": "data visualization"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "data visualization",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 274,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "machine learning"
+    },
+    {
+      "weight": 82,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "power bi"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data visualization",
+      "target": "tableau"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data visualization",
+      "target": "deep learning"
+    },
+    {
+      "weight": 56,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "mongodb"
+    },
+    {
+      "weight": 56,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "mysql"
+    },
+    {
+      "weight": 251,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "python"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data visualization",
+      "target": "nlp"
+    },
+    {
+      "weight": 135,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "sql"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "data visualization",
+      "target": "excel"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "predictive modeling"
+    },
+    {
+      "weight": 51,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "data visualization",
+      "target": "java"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "data warehousing",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "database design",
+      "target": "databases"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "database management",
+      "target": "databases"
+    },
+    {
+      "weight": 87,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "java"
+    },
+    {
+      "weight": 146,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "machine learning"
+    },
+    {
+      "weight": 107,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "python"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "database management",
+      "target": "relational database"
+    },
+    {
+      "weight": 95,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "sql"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "tableau"
+    },
+    {
+      "weight": 367,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "mongodb"
+    },
+    {
+      "weight": 354,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "mysql"
+    },
+    {
+      "weight": 354,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "nosql"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "elasticsearch"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "database management",
+      "target": "redis"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "debugging",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "deep learning",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 741,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "machine learning"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "matplotlib"
+    },
+    {
+      "weight": 100,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "mysql"
+    },
+    {
+      "weight": 529,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "python"
+    },
+    {
+      "weight": 156,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "numpy"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "opencv"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "pandas"
+    },
+    {
+      "weight": 152,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "flask"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "neural networks"
+    },
+    {
+      "weight": 156,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "keras"
+    },
+    {
+      "weight": 260,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "nlp"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "pyspark"
+    },
+    {
+      "weight": 87,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "pytorch"
+    },
+    {
+      "weight": 191,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "sql"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "html"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "predictive modeling"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "r"
+    },
+    {
+      "weight": 178,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "deep learning",
+      "target": "tableau"
+    },
+    {
+      "weight": 118,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "deep learning",
+      "target": "java"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "devops",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 68,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "devops",
+      "target": "machine learning"
+    },
+    {
+      "weight": 342,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume_job"
+      ],
+      "source": "devops",
+      "target": "java"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "devops",
+      "target": "react"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "django",
+      "target": "backend"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "django",
+      "target": "machine learning"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "django",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "docker",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "docker",
+      "target": "machine learning"
+    },
+    {
+      "weight": 66,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "docker",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "elasticsearch",
+      "target": "databases"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "elasticsearch",
+      "target": "machine learning"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "elasticsearch",
+      "target": "mongodb"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "elasticsearch",
+      "target": "mysql"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "elasticsearch",
+      "target": "nosql"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "elasticsearch",
+      "target": "redis"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "etl",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "excel",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 71,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "excel",
+      "target": "networking"
+    },
+    {
+      "weight": 73,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "excel",
+      "target": "java"
+    },
+    {
+      "weight": 151,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "excel",
+      "target": "python"
+    },
+    {
+      "weight": 152,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "excel",
+      "target": "sql"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "excel",
+      "target": "machine learning"
+    },
+    {
+      "weight": 51,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "excel",
+      "target": "power bi"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "excel",
+      "target": "statistics"
+    },
+    {
+      "weight": 59,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "excel",
+      "target": "mysql"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "firewall",
+      "target": "networking_security"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "flask",
+      "target": "backend"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "flask",
+      "target": "machine learning"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "flask",
+      "target": "neural networks"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "flask",
+      "target": "python"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "flask",
+      "target": "nlp"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "gcp",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "generative ai",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "git",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 79,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "git",
+      "target": "python"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "git",
+      "target": "machine learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "graphql",
+      "target": "backend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "hadoop",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "hadoop",
+      "target": "machine learning"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "hadoop",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "hive",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "hive",
+      "target": "machine learning"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "hive",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "html",
+      "target": "frontend"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "html",
+      "target": "machine learning"
+    },
+    {
+      "weight": 196,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "html",
+      "target": "python"
+    },
+    {
+      "weight": 94,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "html",
+      "target": "sql"
+    },
+    {
+      "weight": 80,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "html",
+      "target": "mysql"
+    },
+    {
+      "weight": 173,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "html",
+      "target": "java"
+    },
+    {
+      "weight": 159,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "html",
+      "target": "javascript"
+    },
+    {
+      "weight": 67,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "html",
+      "target": "linux"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "informatica",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "ios",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 353,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "ios",
+      "target": "swift"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "ios",
+      "target": "ios development"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "ios",
+      "target": "swift ui"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "ios",
+      "target": "machine learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "ios development",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "ios development",
+      "target": "swift"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "ios development",
+      "target": "swift ui"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "ios development",
+      "target": "machine learning"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "java",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 413,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "machine learning"
+    },
+    {
+      "weight": 750,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "python"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "java",
+      "target": "relational database"
+    },
+    {
+      "weight": 127,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "linux"
+    },
+    {
+      "weight": 201,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "sql"
+    },
+    {
+      "weight": 153,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "javascript"
+    },
+    {
+      "weight": 69,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "mysql"
+    },
+    {
+      "weight": 86,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "quality assurance"
+    },
+    {
+      "weight": 459,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "software development"
+    },
+    {
+      "weight": 58,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "software engineering"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "java",
+      "target": "numpy"
+    },
+    {
+      "weight": 380,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 380,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 356,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "react"
+    },
+    {
+      "weight": 56,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "testing"
+    },
+    {
+      "weight": 56,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "mongodb"
+    },
+    {
+      "weight": 77,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "nlp"
+    },
+    {
+      "weight": 61,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "tableau"
+    },
+    {
+      "weight": 356,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "java",
+      "target": "pytorch"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "javascript",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "javascript",
+      "target": "frontend"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "javascript",
+      "target": "lan"
+    },
+    {
+      "weight": 146,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "javascript",
+      "target": "python"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "javascript",
+      "target": "machine learning"
+    },
+    {
+      "weight": 56,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "javascript",
+      "target": "linux"
+    },
+    {
+      "weight": 69,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "javascript",
+      "target": "software development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "jenkins",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "jenkins",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "keras",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 156,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "machine learning"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "nlp"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "pyspark"
+    },
+    {
+      "weight": 143,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "python"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "pytorch"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "numpy"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "pandas"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 156,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "keras",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "kotlin",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "kotlin",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "kubernetes",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "lan",
+      "target": "networking_security"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "large language models",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "linux",
+      "target": "cloud_devops"
+    },
+    {
+      "weight": 168,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "linux",
+      "target": "python"
+    },
+    {
+      "weight": 120,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "linux",
+      "target": "machine learning"
+    },
+    {
+      "weight": 90,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "linux",
+      "target": "sql"
+    },
+    {
+      "weight": 56,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "linux",
+      "target": "nlp"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "llm",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "machine learning",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 1388,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "python"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "spark"
+    },
+    {
+      "weight": 264,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "power bi"
+    },
+    {
+      "weight": 209,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "r"
+    },
+    {
+      "weight": 286,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "tableau"
+    },
+    {
+      "weight": 143,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "matplotlib"
+    },
+    {
+      "weight": 159,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "mongodb"
+    },
+    {
+      "weight": 250,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "mysql"
+    },
+    {
+      "weight": 208,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "numpy"
+    },
+    {
+      "weight": 91,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "opencv"
+    },
+    {
+      "weight": 156,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "pandas"
+    },
+    {
+      "weight": 224,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 637,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "nlp"
+    },
+    {
+      "weight": 182,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "neural networks"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "postgresql"
+    },
+    {
+      "weight": 94,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "nosql"
+    },
+    {
+      "weight": 600,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "sql"
+    },
+    {
+      "weight": 156,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "pyspark"
+    },
+    {
+      "weight": 171,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "pytorch"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "predictive modeling"
+    },
+    {
+      "weight": 237,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 212,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "software development"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "machine learning",
+      "target": "statistics"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "software engineering"
+    },
+    {
+      "weight": 80,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "react"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "redis"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "swift"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "swift ui"
+    },
+    {
+      "weight": 55,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "machine learning",
+      "target": "networking"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "matplotlib",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 169,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "matplotlib",
+      "target": "python"
+    },
+    {
+      "weight": 117,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "matplotlib",
+      "target": "numpy"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "matplotlib",
+      "target": "pandas"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "matplotlib",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "matplotlib",
+      "target": "nlp"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "matplotlib",
+      "target": "sql"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "matplotlib",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "microservices",
+      "target": "backend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "mobile apps",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "model evaluation",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "model training",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "mongodb",
+      "target": "databases"
+    },
+    {
+      "weight": 406,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mongodb",
+      "target": "mysql"
+    },
+    {
+      "weight": 140,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mongodb",
+      "target": "python"
+    },
+    {
+      "weight": 380,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mongodb",
+      "target": "nosql"
+    },
+    {
+      "weight": 54,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mongodb",
+      "target": "power bi"
+    },
+    {
+      "weight": 61,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mongodb",
+      "target": "sql"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "mongodb",
+      "target": "redis"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "mysql",
+      "target": "databases"
+    },
+    {
+      "weight": 231,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mysql",
+      "target": "python"
+    },
+    {
+      "weight": 367,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mysql",
+      "target": "nosql"
+    },
+    {
+      "weight": 67,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mysql",
+      "target": "power bi"
+    },
+    {
+      "weight": 82,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "mysql",
+      "target": "nlp"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "mysql",
+      "target": "numpy"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "mysql",
+      "target": "redis"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "network administration",
+      "target": "networking_security"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "networking",
+      "target": "networking_security"
+    },
+    {
+      "weight": 73,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "networking",
+      "target": "quality assurance"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "neural networks",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 107,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "neural networks",
+      "target": "python"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "neural networks",
+      "target": "nlp"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "next.js",
+      "target": "frontend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "nlp",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 535,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nlp",
+      "target": "python"
+    },
+    {
+      "weight": 117,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "nlp",
+      "target": "tableau"
+    },
+    {
+      "weight": 315,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nlp",
+      "target": "sql"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "nlp",
+      "target": "numpy"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "nlp",
+      "target": "r"
+    },
+    {
+      "weight": 143,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "nlp",
+      "target": "pyspark"
+    },
+    {
+      "weight": 69,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nlp",
+      "target": "pytorch"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "nlp",
+      "target": "pandas"
+    },
+    {
+      "weight": 147,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nlp",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 121,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nlp",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 69,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nlp",
+      "target": "software development"
+    },
+    {
+      "weight": 82,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nlp",
+      "target": "power bi"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "nlp",
+      "target": "spark"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "node.js",
+      "target": "backend"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "node.js",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "nosql",
+      "target": "databases"
+    },
+    {
+      "weight": 75,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "nosql",
+      "target": "python"
+    },
+    {
+      "weight": 341,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "nosql",
+      "target": "redis"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "numpy",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 182,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "numpy",
+      "target": "pandas"
+    },
+    {
+      "weight": 247,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "numpy",
+      "target": "python"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "numpy",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "numpy",
+      "target": "sql"
+    },
+    {
+      "weight": 130,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "numpy",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "opencv",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "opencv",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "pandas",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 195,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "pandas",
+      "target": "python"
+    },
+    {
+      "weight": 117,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "pandas",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 104,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "pandas",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 78,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "pandas",
+      "target": "sql"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "postgresql",
+      "target": "databases"
+    },
+    {
+      "weight": 65,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "postgresql",
+      "target": "python"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "power bi",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 80,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "power bi",
+      "target": "r"
+    },
+    {
+      "weight": 209,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "power bi",
+      "target": "tableau"
+    },
+    {
+      "weight": 219,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "power bi",
+      "target": "python"
+    },
+    {
+      "weight": 535,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "power bi",
+      "target": "sql"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "predictive modeling",
+      "target": "machine_learning_ai"
+    },
+    {
+      "weight": 134,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "predictive modeling",
+      "target": "python"
+    },
+    {
+      "weight": 82,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "predictive modeling",
+      "target": "sql"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "pyspark",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 131,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "pyspark",
+      "target": "python"
+    },
+    {
+      "weight": 92,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "pyspark",
+      "target": "sql"
+    },
+    {
+      "weight": 66,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "pyspark",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "pyspark",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "pyspark",
+      "target": "spark"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "python",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "spark"
+    },
+    {
+      "weight": 549,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "tableau"
+    },
+    {
+      "weight": 275,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "r"
+    },
+    {
+      "weight": 692,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "sql"
+    },
+    {
+      "weight": 483,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "pytorch"
+    },
+    {
+      "weight": 536,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 161,
+      "relation": "co_occurs",
+      "sources": [
+        "job_skill_set",
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "software development"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "statistics"
+    },
+    {
+      "weight": 54,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "python",
+      "target": "software engineering"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "pytorch",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 380,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "pytorch",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 367,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "pytorch",
+      "target": "scikit-learn"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "quality assurance",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 74,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "quality assurance",
+      "target": "sql"
+    },
+    {
+      "weight": 52,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "quality assurance",
+      "target": "testing"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "r",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 169,
+      "relation": "co_occurs",
+      "sources": [
+        "resume"
+      ],
+      "source": "r",
+      "target": "tableau"
+    },
+    {
+      "weight": 157,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "r",
+      "target": "sql"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "react",
+      "target": "frontend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "redis",
+      "target": "databases"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "redshift",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "redux",
+      "target": "frontend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "relational database",
+      "target": "databases"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "reporting",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "requirements gathering",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "rest api",
+      "target": "backend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "scikit-learn",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 471,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "scikit-learn",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 74,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "scikit-learn",
+      "target": "sql"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "security",
+      "target": "networking_security"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "software development",
+      "target": "backend"
+    },
+    {
+      "weight": 68,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "software development",
+      "target": "sql"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "software engineering",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "software testing",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "spark",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "spring boot",
+      "target": "backend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "sql",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "sql",
+      "target": "databases"
+    },
+    {
+      "weight": 299,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "sql",
+      "target": "tableau"
+    },
+    {
+      "weight": 61,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "sql",
+      "target": "tensorflow"
+    },
+    {
+      "weight": 53,
+      "relation": "co_occurs",
+      "sources": [
+        "resume",
+        "resume_job"
+      ],
+      "source": "sql",
+      "target": "statistics"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "statistics",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "swift",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "swift",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 340,
+      "relation": "co_occurs",
+      "sources": [
+        "resume_job"
+      ],
+      "source": "swift",
+      "target": "swift ui"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "swift ui",
+      "target": "mobile_development"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "tableau",
+      "target": "analytics_bi"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "tailwind",
+      "target": "frontend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "talend",
+      "target": "data_engineering_big_data"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "tensorflow",
+      "target": "ml_frameworks_libraries"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "testing",
+      "target": "software_engineering"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "typescript",
+      "target": "programming_languages"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "typescript",
+      "target": "frontend"
+    },
+    {
+      "weight": 3,
+      "relation": "belongs_to_domain",
+      "sources": [
+        "taxonomy"
+      ],
+      "source": "wan",
+      "target": "networking_security"
+    }
+  ]
+}
