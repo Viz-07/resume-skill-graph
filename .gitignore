@@ -4,16 +4,7 @@ __pycache__/
 
 frontend/node_modules/
 frontend/dist/
-frontend/.vite/
 
 .env
 .env.*
 *.local
-
-/*.csv
-/dataset_analysis.txt
-/graph_summary.txt
-/initial_skill_vocab.json
-/skill_frequency.json
-/skill_graph.json
-/skill_vocab_final.json
